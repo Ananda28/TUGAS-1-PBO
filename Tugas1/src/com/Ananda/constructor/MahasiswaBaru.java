@@ -96,6 +96,6 @@
                     System.out.println(" Grade = E");
                 }
 
-            System.out.println("Terima Kasih Telah Melakukan Registrasi");
+            System.out.println("Terima Kasih Telah Mendaftar");
         }
     }
